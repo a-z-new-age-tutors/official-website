@@ -71,19 +71,19 @@ export function Faqs() {
         ></FaqItem>
         <FaqItem
           faq="What locations do you cover?"
-          answer="We offer in-person tutoring all round Nigeria: Lagos, Abuja, Port Harcourt, Ibadan. We also cover other parts of Nigeria on request, and our virtual programs serve families nationwide and in the Diaspora, including the UK, US, Canada, UAE, and more."
+          answer="We offer in-person tutoring all round Nigeria: Lagos, Abuja, Port Harcourt, Ibadan. We also cover other parts of Nigeria on request, and our virtual programs serve families nationwide and in the diaspora, including the UK, US, Canada, UAE, and more."
         ></FaqItem>
         <FaqItem
           faq="What curriculum do you follow?"
-          answer="We support British, Nigerian, and hybrid curricula. Tutors align with your child's school syllabus or create custom learning plans based on your goals, including assessments and gap-filling strategies."
+          answer="We support British, Nigerian, and Hybrid Curricula. Tutors align with your child's school syllabus or create custom learning plans based on your goals, including assessments and gap-filling strategies."
         ></FaqItem>
         <FaqItem
           faq="Do you offer both group and one-on-one tutoring?"
-          answer="Yes! We offer: 1-on-1 sessions for personal lessons, Small groups (2 or more learners), Learning Pods (house-based mini bootcamps during holidays), Online clubs for skills and interactive learning."
+          answer="Yes! We offer: 1-on-1 sessions for personal lessons, small groups (2 or more learners), learning pods (house-based mini bootcamps during holidays), online clubs for skills and interactive learning."
         ></FaqItem>
         <FaqItem
           faq="How do I book a tutor or join a program?"
-          answer="Simply: Chat with us on WhatsApp, Fill a short enrolment form, Schedule a free consultation call. We'll guide you through program options, pricing, and tutor matching."
+          answer="Simply: Chat with us on WhatsApp, fill a short enrolment form, schedule a free consultation call. We'll guide you through program options, pricing, and tutor matching."
         ></FaqItem>
         <FaqItem
           faq="What locations do you cover?"

@@ -146,7 +146,7 @@ export default function Home() {
       </section>
 
       <Link href="/vision-mission-goals-and-objectives">
-        <section className="relative pt-[140px] pb-[85px] rounded-[12px] md:mb-[295px] mb-[110px] m-auto flex flex-col gap-[60px] max-w-[1100px] items-center min-h-[469px] overflow-hidden">
+        <section className="relative max-md:pt-[50px] max-md:pb-[40px] pt-[140px] pb-[85px] rounded-[12px] md:mb-[295px] mb-[110px] m-auto flex flex-col gap-[60px] max-md:gap-8 max-w-[1100px] items-center max-md:min-h-52 min-h-[469px] overflow-hidden">
           <Image
             className="absolute md:top-[-150px] bg-secondary -z-10 max-md:h-full max-md:top-0"
             src="/visions-and-missions.png"
@@ -156,7 +156,7 @@ export default function Home() {
           />
 
           <div className="absolute top-0 flex h-full z-[-10] w-full items-center justify-center opacity-75 bg-[#100F0F]" />
-          <h2 className="text-center text-white">
+          <h2 className="text-center text-white max-sm:px-4">
             Our vision, mission, goals and objectives set us apart.
           </h2>
           <CustomButton secondary>Learn More</CustomButton>
